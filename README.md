@@ -8,6 +8,10 @@ A Simple Admin Pannel written in core PHP. It contains an implementation of gene
   - Authentication and Authorization.
   - Pagination
   - Filters
+  
+### SQL Db file :
+  - Use db.sql as base SQL file
+
 
 ### Libraries used : 
   - MysqliDb (https://github.com/ThingEngineer/PHP-MySQLi-Database-Class)
